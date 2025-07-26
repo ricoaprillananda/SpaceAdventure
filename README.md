@@ -28,14 +28,16 @@ Built With:
 
 How to Play:  
 
+```
 1. Move your spaceship to dodge enemy bullets.  
 2. Fire green lasers to defeat the aliens.  
 3. Survive and rack up your high score!
+```
 
 ---
 
 
-** MIT License:**  
+## MIT License:  
 Released under the MIT License. See the LICENSE file for more details.  
 
 ---
