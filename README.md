@@ -1,4 +1,5 @@
 ## 🛰️ Space Adventure
+
 A thrilling intergalactic shooter game where endless alien respawns, intense laser battles, and epic fun await!
 
 ---
@@ -9,6 +10,7 @@ Space Adventure is an arcade-style space shooter where you pilot a spaceship thr
 ---
 
 ### Features  
+
 - 🛰️ Endless alien waves that keep you on your toes.  
 - 🟩 Green lasers and explosive combat effects.  
 - 🎶 Immersive background music to set the galactic mood.  
@@ -26,13 +28,9 @@ Built With:
 
 How to Play:  
 
-```
-
 1. Move your spaceship to dodge enemy bullets.  
 2. Fire green lasers to defeat the aliens.  
 3. Survive and rack up your high score!
-
-```
 
 ---
 
